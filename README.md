@@ -1,4 +1,4 @@
-# Olá, Mundo!
+# My first repository!
  Primeiro repositório do curso Git GitHub (Curso em vídeo)
  #
  #
