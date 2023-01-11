@@ -6,7 +6,7 @@
 #
  >__*Loja-carros:*__
  
- >Site feito com o intuito de treinar o uso do css
+ >Site feito com o intuito de treinar o uso do css e Jquery
  ![image](https://user-images.githubusercontent.com/92181116/138372131-f9c16bd7-6f67-4130-9448-059dc5668bbe.png)
 #
 
